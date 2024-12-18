@@ -1,4 +1,6 @@
-**Student at [IST](https://tecnico.ulisboa.pt/pt/)**<a href="https://tecnico.ulisboa.pt/pt/" style="display:inline-block; vertical-align:middle;">
+**Student at [IST](https://tecnico.ulisboa.pt/pt/)**
+
+<a href="https://tecnico.ulisboa.pt/pt/" style="display:inline-block; vertical-align:middle;">
   <img src="https://i.imgur.com/zCCQwqL.png" alt="IST" width="40" style="vertical-align:middle; margin-left:5px;">
 </a>  
 
