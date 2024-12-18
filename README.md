@@ -1,5 +1,5 @@
 ## Vasco Conceição
-**`Student at [IST](https://tecnico.ulisboa.pt/pt/)`**
+**`Student at `[IST](https://tecnico.ulisboa.pt/pt/)**
 
 [<img src="https://i.imgur.com/zCCQwqL.png" alt="IST" width="40" style="vertical-align:middle;">](https://tecnico.ulisboa.pt/pt/)
 
