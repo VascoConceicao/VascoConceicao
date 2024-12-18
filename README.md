@@ -1,6 +1,6 @@
 ## Vasco Conceição  
 **`Student at IST`** 
-<a href="https://tecnico.ulisboa.pt/pt/" style="vertical-align:middle;">
+<a href="https://tecnico.ulisboa.pt/pt/" style="vertical-align:bottom;">
   <img src="https://i.imgur.com/zCCQwqL.png" alt="IST" width="40" style="vertical-align:middle; margin-left:5px; position:relative;">
 </a> 
 
