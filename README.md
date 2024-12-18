@@ -1,8 +1,3 @@
-**Student at IST**  
-<a href="https://tecnico.ulisboa.pt/pt/" style="display:inline-block; vertical-align:middle;">
-  <img src="https://i.imgur.com/zCCQwqL.png" alt="IST" width="40" style="vertical-align:middle;">
-</a>  
+**Student at [IST](https://tecnico.ulisboa.pt/pt/)**  
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,c,cpp,cmake,docker,figma,git,github,gitlab,grafana,java,octave,p5js,postgres,py,pytorch)](https://skillicons.dev)
-
-make studen bigger
