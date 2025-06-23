@@ -1,6 +1,6 @@
 **🎓 Student at [IST](https://tecnico.ulisboa.pt/pt/)**
 
-🔖 Here is my [CV](CV-English.pdf)
+🔖 [CV](CV-English.pdf)
 
 
 ## Skills
